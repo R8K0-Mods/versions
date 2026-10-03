@@ -4,7 +4,7 @@
 --========================================================--
 
 local ScriptName = 'R8K0 Version Test'
-local CurrentVersion = '1.0.0'
+local CurrentVersion = '1.0.1'
 local VersionFile = 'test-resource.txt'
 
 local VersionURL =
