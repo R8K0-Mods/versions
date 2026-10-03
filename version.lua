@@ -3,7 +3,7 @@
 --                    Version Checker                     --
 --========================================================--
 
-local ScriptName = 'R8K0 Test Resource'
+local ScriptName = 'R8K0 Version Test'
 local CurrentVersion = '1.0.0'
 local VersionFile = 'test-resource.txt'
 
